@@ -1,0 +1,14 @@
+D:\monocept_c# learning\Assignment\TwoPlayersTicTacToe\TwoPlayersTicTacToe\bin\Debug\net8.0\TwoPlayersTicTacToe.exe
+D:\monocept_c# learning\Assignment\TwoPlayersTicTacToe\TwoPlayersTicTacToe\bin\Debug\net8.0\TwoPlayersTicTacToe.deps.json
+D:\monocept_c# learning\Assignment\TwoPlayersTicTacToe\TwoPlayersTicTacToe\bin\Debug\net8.0\TwoPlayersTicTacToe.runtimeconfig.json
+D:\monocept_c# learning\Assignment\TwoPlayersTicTacToe\TwoPlayersTicTacToe\bin\Debug\net8.0\TwoPlayersTicTacToe.dll
+D:\monocept_c# learning\Assignment\TwoPlayersTicTacToe\TwoPlayersTicTacToe\bin\Debug\net8.0\TwoPlayersTicTacToe.pdb
+D:\monocept_c# learning\Assignment\TwoPlayersTicTacToe\TwoPlayersTicTacToe\obj\Debug\net8.0\TwoPlayersTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\monocept_c# learning\Assignment\TwoPlayersTicTacToe\TwoPlayersTicTacToe\obj\Debug\net8.0\TwoPlayersTicTacToe.AssemblyInfoInputs.cache
+D:\monocept_c# learning\Assignment\TwoPlayersTicTacToe\TwoPlayersTicTacToe\obj\Debug\net8.0\TwoPlayersTicTacToe.AssemblyInfo.cs
+D:\monocept_c# learning\Assignment\TwoPlayersTicTacToe\TwoPlayersTicTacToe\obj\Debug\net8.0\TwoPlayersTicTacToe.csproj.CoreCompileInputs.cache
+D:\monocept_c# learning\Assignment\TwoPlayersTicTacToe\TwoPlayersTicTacToe\obj\Debug\net8.0\TwoPlayersTicTacToe.dll
+D:\monocept_c# learning\Assignment\TwoPlayersTicTacToe\TwoPlayersTicTacToe\obj\Debug\net8.0\refint\TwoPlayersTicTacToe.dll
+D:\monocept_c# learning\Assignment\TwoPlayersTicTacToe\TwoPlayersTicTacToe\obj\Debug\net8.0\TwoPlayersTicTacToe.pdb
+D:\monocept_c# learning\Assignment\TwoPlayersTicTacToe\TwoPlayersTicTacToe\obj\Debug\net8.0\TwoPlayersTicTacToe.genruntimeconfig.cache
+D:\monocept_c# learning\Assignment\TwoPlayersTicTacToe\TwoPlayersTicTacToe\obj\Debug\net8.0\ref\TwoPlayersTicTacToe.dll
